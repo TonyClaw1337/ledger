@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+dist/
+.env
+data/
+*.db
+memory/
+MEMORY.md
+.venv/
